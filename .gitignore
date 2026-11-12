@@ -1,0 +1,13 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+.aistudio/
+/about_visible_*.png
+/admin_bike_picture_modal.png
+/hero_*.png
+/scooters_*.png

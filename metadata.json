@@ -1,0 +1,6 @@
+{
+  "name": "Nakshatra Motors — Premium EV Website & CMS",
+  "description": "Authorized Hestur Energy electric scooter dealership portal with vehicle showcases, technical specifications, test ride booking, and full Admin CMS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
